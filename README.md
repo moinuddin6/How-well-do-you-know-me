@@ -6,6 +6,8 @@ Project Description:- In this project, I created a CLI (Command line Interface) 
 
 # Information About project:- 
 
+Details about project :- I use _**ReadlineSync**_ for user communication.[Link](https://replit.com/@mdmoinuddin3/Mark-1#index.jsembed=1&output=1)
+
 1. This is basically a fun quiz app.
 2. where question is related about me.
 3. if you know some question about me, and if it is right then you gain marks.
