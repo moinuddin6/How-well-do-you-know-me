@@ -21,5 +21,13 @@ So Don't worry, Just play & fun :)
 In the end don't forget to checkout your final score out of 5 points.
 
 
+# Teck stack
+
+1. Javascript
+2. readlinesync
+
+
+
+
 
  
