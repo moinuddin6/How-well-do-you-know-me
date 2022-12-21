@@ -26,6 +26,11 @@ In the end don't forget to checkout your final score out of 5 points.
 1. Javascript
 2. readlinesync
 
+# Screenshot:--
+
+![image](https://user-images.githubusercontent.com/114233774/208829321-769d89d1-69cd-460d-af43-eed3379dc190.png)
+
+
 
 
 
